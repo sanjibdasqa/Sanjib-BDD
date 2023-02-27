@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.215" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Internet Quote Testing" name="Internet Quote with &lt;zipcode&gt; - Example #1.1" time="0.031">
+<system-out><![CDATA[
+Given go to internet quote page.............................................passed
+And click sentra car button.................................................passed
+When Validate get quote page title..........................................passed
+And insert first name 'Sanjib'..............................................passed
+Then insert Zip code '25478'................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Internet Quote Testing" name="Internet Quote with &lt;zipcode&gt; - Example #1.2" time="0.007">
+<system-out><![CDATA[
+Given go to internet quote page.............................................passed
+And click sentra car button.................................................passed
+When Validate get quote page title..........................................passed
+And insert first name 'Sanjib'..............................................passed
+Then insert Zip code '45897'................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Internet Quote Testing" name="Internet Quote with &lt;zipcode&gt; - Example #1.3" time="0.001">
+<system-out><![CDATA[
+Given go to internet quote page.............................................passed
+And click sentra car button.................................................passed
+When Validate get quote page title..........................................passed
+And insert first name 'Sanjib'..............................................passed
+Then insert Zip code '36547'................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
